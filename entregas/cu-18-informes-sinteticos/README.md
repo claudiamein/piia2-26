@@ -43,7 +43,7 @@ Queda fuera del alcance del proyecto:
 - La generación de informes para pacientes reales.
 - El entrenamiento desde cero de un modelo de lenguaje.
 - La integración directa con los sistemas clínicos del hospital.
-- 
+  
 ## Funcionalidades
 
 El sistema se divide inicialmente en las siguientes funcionalidades:
@@ -74,6 +74,7 @@ La definición detallada de cada funcionalidad se encuentra en la carpeta
 
 La documentación de esta entrega se organiza de la siguiente forma:
 
+```text
 cu-18-informes-sinteticos/
 ├── README.md
 └── specs/
